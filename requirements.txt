@@ -1,0 +1,11 @@
+datasets
+transformers
+tiktoken
+pandas
+matplotlib
+seaborn
+huggingface_hub[hf_text]
+hf_xet
+python-dotenv
+google-generativeai
+groq
